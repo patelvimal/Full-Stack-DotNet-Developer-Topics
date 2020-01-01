@@ -17,4 +17,12 @@
 
 ## 1. OOPS Concepts
 
-* 📜 [Encapsulation and Abstraction]
+* 📜 Encapsulation and Abstraction
+* 📜 Polymorphism
+* 📜 Inheritance
+* 📜 Constructor and types
+* 📜 Access Modifiers and Specifier
+* 📜 Interface and Abstract Class
+* 📜 Structs vs Class, Enum
+* 📜 Overriding and Virtual
+* 📜 Association,Aggregation, Composition
