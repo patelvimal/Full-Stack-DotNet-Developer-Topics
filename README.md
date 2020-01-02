@@ -4,14 +4,14 @@
 
 1. **[OOPS Concepts](#1-oops-concepts)**
 2. **[C#.Net](#2-c#.net)**
-3. **[CLR](#2-primitive-types)**
-4. **[Collection](#2-primitive-types)**
-5. **[MVC](#2-primitive-types)**
-6. **[WCF](#2-primitive-types)**
-7. **[SQL Server](#2-primitive-types)**
-8. **[WebApi](#2-primitive-types)**
-9. **[IIS](#2-primitive-types)**
-10. **[Misc](#2-primitive-types)**
+3. **[CLR](#3-CLR)**
+4. **[Collection](#4-collection)**
+5. **[MVC](#5-mvc)**
+6. **[WCF](#6-wcf)**
+7. **[SQL Server](#7-sql-server)**
+8. **[WebApi](#8-webapi)**
+9. **[IIS](#9-iis)**
+10. **[Misc](#10-misc)**
 
 ---
 
