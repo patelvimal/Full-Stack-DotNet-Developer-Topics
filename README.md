@@ -15,7 +15,7 @@
 
 ---
 
-## 1. OOPS Concepts
+### 1. OOPS Concepts
 
 * 📜 Encapsulation and Abstraction
 * 📜 Polymorphism
@@ -27,7 +27,7 @@
 * 📜 Overriding and Virtual
 * 📜 Association,Aggregation, Composition
 
-## 2. C#.Net
+### 2. C#.Net
 
 * 📜 Delegate
 * 📜 Partial Methods
@@ -44,7 +44,7 @@
 * 📜 Association and Aggregation
 * 📜 Static Fields
 
-## 3. CLR
+### 3. CLR
 
 * 📜 Delegate
 * 📜 Reflection
@@ -53,7 +53,7 @@
 * 📜 Memory Management
 * 📜 CLS, CTS
 
-## 4. Collection
+### 4. Collection
 
 * 📜 Array
 * 📜 Arraylist
@@ -64,7 +64,7 @@
 * 📜 IEnumberator
 * 📜 IQuerable
 
-## 5. MVC
+### 5. MVC
 
 * 📜 Life-Cycle in Detail
 * 📜 Filters and Custom Filters
@@ -84,7 +84,7 @@
 * 📜 View, Domain, Business Model
 * 📜 Implement Dependency Injection
 
-## 6. WCF
+### 6. WCF
 
 * 📜 Endpoint/ Runtime Endpoint
 * 📜 Service Contract
@@ -111,7 +111,7 @@
 * 📜 KnownTypes
 * 📜 Handling Large data
 
-## 7. SQL Server
+### 7. SQL Server
 
 * 📜 Temp,Magic & Global Table
 * 📜 Stored procedure, View
@@ -131,7 +131,7 @@
 * 📜 Scheduled Jobs
 * 📜 Magic Tables
 
-## 8. WebAPI
+### 8. WebAPI
 
 * 📜 Formatters
 * 📜 Http Methods
@@ -139,7 +139,7 @@
 * 📜 Filters
 * 📜 Content Negotiation
 
-## 9. IIS
+### 9. IIS
 
 * 📜 Worker Process
 * 📜 Application Pool
@@ -150,7 +150,7 @@
 * 📜 WebFarm and WebGarden
 * 📜 Life Cycle of Web Application
 
-## 10. Misc
+### 10. Misc
 
 * 📜 Repository Pattern
 * 📜 AutoMapper
