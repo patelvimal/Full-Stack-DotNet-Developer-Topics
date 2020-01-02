@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. **[OOPS Concepts](#1-oops-concepts)**
-2. **[C#.Net](#1-call-stack)**
+2. **[C#.Net](#2-c#.net)**
 3. **[CLR](#2-primitive-types)**
 4. **[Collection](#2-primitive-types)**
 5. **[MVC](#2-primitive-types)**
@@ -26,3 +26,20 @@
 * 📜 Structs vs Class, Enum
 * 📜 Overriding and Virtual
 * 📜 Association,Aggregation, Composition
+
+## 2. C#.Net
+
+* 📜 Delegate
+* 📜 Partial Methods
+* 📜 Finalize and Dispose
+* 📜 Exception Handling
+* 📜 Lambda Expression
+* 📜 Extension Methods
+* 📜 Dynamic and Var
+* 📜 Yield
+* 📜 LINQ
+* 📜 Anonymous Method
+* 📜 Param and Out ref
+* 📜 Asynchronous
+* 📜 Association and Aggregation
+* 📜 Static Fields
