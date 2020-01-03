@@ -17,15 +17,15 @@
 
 ### 1. OOPS Concepts
 
-* 📜 Encapsulation and Abstraction
-* 📜 Polymorphism
-* 📜 Inheritance
-* 📜 Constructor and types
-* 📜 Access Modifiers and Specifier
-* 📜 Interface and Abstract Class
-* 📜 Structs vs Class, Enum
-* 📜 Overriding and Virtual
-* 📜 Association,Aggregation, Composition
+:heavy_check_mark: Encapsulation and Abstraction
+:heavy_check_mark: Polymorphism
+:heavy_check_mark: Inheritance
+:heavy_check_mark: Constructor and types
+:heavy_check_mark: Access Modifiers and Specifier
+:heavy_check_mark: Interface and Abstract Class
+:heavy_check_mark: Structs vs Class, Enum
+:heavy_check_mark: Overriding and Virtual
+:heavy_check_mark: Association,Aggregation, Composition
 
 ### 2. C#.Net
 
